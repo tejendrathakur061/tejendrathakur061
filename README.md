@@ -73,7 +73,64 @@ I'm a **Full Stack Developer at Vidhema Technologies, Jaipur**, passionate about
 
 ## 🚀 Featured Projects
 
-### ✅ 1. Todo App — Task Management
+### 💼 1. DevTinder — Developer Networking Platform
+
+<a href="https://github.com/tejendrathakur061/DevTinder">
+  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevTinder Repository" />
+</a>
+<img src="https://img.shields.io/badge/Project-MERN_Stack-47A248?style=for-the-badge" alt="MERN Stack" />
+
+A Tinder-inspired developer networking platform that helps developers discover other developers, connect with them, and build their professional network.
+
+**Key Features:**
+- 🔐 User authentication and authorization
+- 👤 Developer profile creation and editing
+- 🔍 Discover developers through a feed
+- 🤝 Send and manage connection requests
+- ✅ Accept or reject connection requests
+- 👥 View connected developers
+- 🔄 State management and API integration
+
+**Tech Stack:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,express,mongodb" alt="DevTinder technologies" />
+</p>
+
+**Repository:** [github.com/tejendrathakur061/DevTinder](https://github.com/tejendrathakur061/DevTinder)
+
+---
+
+### 🛒 2. MyStore — Full Stack E-commerce Application
+
+<a href="https://github.com/tejendrathakur061/myStore-ecommerce">
+  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="MyStore Repository" />
+</a>
+<img src="https://img.shields.io/badge/Project-MERN_Stack-47A248?style=for-the-badge" alt="MERN Stack" />
+
+A full-stack e-commerce application designed to provide a complete online shopping experience, including product browsing, cart management, order processing, and administration.
+
+**Key Features:**
+- 🔐 User registration and login
+- 🛍️ Product browsing and product details
+- 🛒 Shopping cart and quantity management
+- 📦 Checkout and order placement
+- 👤 User profile management
+- 📋 Order history and management
+- ⚙️ Admin dashboard
+- 🧾 Product and order management
+
+**Tech Stack:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb" alt="MyStore technologies" />
+</p>
+
+**Repository:** [github.com/tejendrathakur061/myStore-ecommerce](https://github.com/tejendrathakur061/myStore-ecommerce)
+
+---
+
+### ✅ 3. Todo App — Task Management
 
 A simple and responsive application to manage daily tasks efficiently.
 
@@ -85,7 +142,9 @@ A simple and responsive application to manage daily tasks efficiently.
 
 **🛠️ Tech Stack:** React, Tailwind CSS, JavaScript, Local Storage
 
-### 🌦️ 2. Weather App — OpenWeatherMap API
+---
+
+### 🌦️ 4. Weather App — OpenWeatherMap API
 
 A weather application that displays current weather information using a third-party API.
 
@@ -96,17 +155,6 @@ A weather application that displays current weather information using a third-pa
 - ⚡ Handle API responses and invalid city searches
 
 **🛠️ Tech Stack:** JavaScript, React.js, Tailwind CSS, OpenWeatherMap API
-
-### 🌐 3. Full Stack Web Applications
-
-Currently building practical applications to strengthen my full-stack development skills.
-
-- 🎨 Creating responsive user interfaces
-- ⚙️ Developing backend APIs
-- 🗄️ Working with databases and CRUD operations
-- 🔗 Integrating frontend and backend services
-
-**🛠️ Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
 ---
 
